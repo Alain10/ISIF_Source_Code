@@ -1,0 +1,472 @@
+#"ARMED FORCES OF THE FEDERATED SUNS"#######
+#"FORCE LOCATION AIR GND SP LD XP"#######
+"Federated Suns"#"Unaffiliated"#######
+"Federated Suns"#"1st Aragon Borderers"#"New Aragon"#80#420#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"1st Argyle Lancers"#"Phalan"#240#500#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"1st Capellan Dragoons"#"Talon/Wernke"#120#620#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"1st FedSuns Armored Cavalry"#"Ziliang"#120#460#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"1st Kestrel Grenadiers"#"David"#80#420#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"1st Kittery Borderers"#"Lee"#120#500#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"1st Kathil Uhlans David"#"David"#120#500#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Avalon Hussars"#######
+"Federated Suns"#"11th Avalon Hussars RCT"#"Kesai IV"#310#1506#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"17th Avalon Hussars RCT"#"Cassias"#270#1348#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"20th Avalon Hussars RCT"#"Freedom"#270#1466#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"22nd Avalon Hussars RCT"#"Errai"#320#1606#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"33rd Avalon Hussars RCT"#"Caph"#320#1629#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"39th Avalon Hussars RCT"#"Freedom"#150#1267#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"41st Avalon Hussars RCT"#"David"#510#1421#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"42nd Avalon Hussars RCT"#"Kesai IV"#360#2,08#"3/18"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Chisholm's Raiders"#######
+"Federated Suns"#"1st Chisholm's Raiders RCT"#"Breed"#120#1,09#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"2nd Chisholm's Raiders"#"Dobson"#120#1,06#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Ceti Hussars"#######
+"Federated Suns"#"1st Ceti Hussars RCT"#"Glenmora"#270#1,29#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"2nd Ceti Hussars RCT"#"Breed"#270#1,45#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"3rd Ceti Hussars RCT"#"Breed"#240#1,31#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Crucis Lancers"#######
+"Federated Suns"#"1st Crucis Lancers RCT"#"Kesai IV"#270#1,37#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"2nd Crucis Lancers RCT"#"Galatia III"#270#1,45#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"3rd Crucis Lancers RCT"#"Caph"#310#1,64#"2/12"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"4th Crucis Lancers RCT"#"Baxter"#250#1,45#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"5th Crucis Lancers RCT"#"Addicks"#120#1,34#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"6th Crucis Lancers RCT"#"Freedom"#270#1,43#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"7th Crucis Lancers RCT"#"Breed"#300#1,45#"2/12"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"8th Crucis Lancers RCT"#"Addicks"#270#1,42#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Davion Guards"#######
+"Federated Suns"#"Davion Assault Guards RCT"#"Caph"#280#1,62#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Davion Heavy Guards RCT"#"Galatia III"#270#1,53#"2/12"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"Davion Light Guards RCT"#"Breed"#270#1,2#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"1st Davion Guards RCT"#"Cassias"#240#1,29#"2/12"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"2nd Davion Guards RCT"#"Fomalhaut"#270#1,39#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"3rd Davion Guards RCT"#"Baxter"#270#1,14#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"4th Davion Guards RCT"#"David"#270#1,11#"2/12"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"5th Davion Guards RCT"#"David"#240#1,39#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Deneb Light Cavalry"#######
+"Federated Suns"#"4th DLC RCT"#"Freedom"#310#943#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"5th DLC RCT"#"Nanking"#300#893#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"8th DLC RCT"#"Addicks"#180#853#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"10th DLC RCT"#"Breed"#180#893#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"12th DLC RCT"#"Galatia III"#180#813#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"15th DLC RCT"#"Breed"#220#1,11#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"FedCom Corps"#######
+"Federated Suns"#"1st FedCom RCT"#"Errai"#270#1,23#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"2nd FedCom RCT"#"Truth"#240#1,31#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"3rd FedCom RCT"#"David"#270#1,25#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"4th FedCom RCT"#"Errai"#270#1,39#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"5th FedCom RCT"#"Addicks"#250#1,35#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"6th FedCom RCT"#"Addicks"#270#1,46#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"New Ivaarsen Chasseurs"#######
+"Federated Suns"#"1st New Ivaarsen Chasseurs"#"New Ivaarsen"#360#580#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"2nd New Ivaarsen Chasseurs"#"Breed"#170#810#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Robinson Rangers"#######
+"Federated Suns"#"1st Robinson Rangers"#"Breed"#120#540#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"2nd Robinson Rangers"#"Breed"#120#540#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Syrtis Fusiliers"#######
+"Federated Suns"#"5th Syrtis Fusiliers RCT"#"David"#270#1,49#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"6th Syrtis Fusiliers RCT"#"Wappingers"#270#1,36#"2/12"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"8th Syrtis Fusiliers RCT"#"Kathil"#270#1,28#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Capellan March Militia"#######
+"Federated Suns"#"Alcyone CMM"#"Alcyone"#150#1,18#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"New Syrtis CMM"#"New Syrtis"#120#1,1#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Ridgebrook CMM"#"Ridgebrook"#120#1,11#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Sirdar CMM"#"Sirdar"#150#1,07#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Valexa CMM"#"Valexa"#150#1,26#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Warren CMM"#"Warren"#130#1,16#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Crucis March Militia"#######
+"Federated Suns"#"Anjin Muerto CrMM"#"Anjin Muerto"#150#1,19#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Islamabad CrMM"#"Islamabad"#130#1,09#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Kestrel CrMM"#"Kestrel"#120#1,13#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Malagrotta CrMM"#"Malagrotta"#150#1,2#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Marlette CrMM"#"Marlette"#120#1,06#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"New Avalon CrMM"#"New Avalon"#120#1,13#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Remagen CrMM"#"Nunivak"#150#1,07#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Tsamma CrMM"#"Tsamma"#120#1,09#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Draconis March Militia"#######
+"Federated Suns"#"Addicks DMM"#"Addicks"#120#1,1#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Bremond DMM"#"Bremond"#120#1,19#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Bryceland DMM"#"Bryceland"#120#1,06#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Clovis DMM"#"Cartago"#120#1,06#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Dahar DMM"#"Tishomingo"#120#1,09#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Kilbourne DMM"#"Cohay"#150#1,07#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Mayetta DMM"#"Mayetta"#120#1,12#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Milligan DMM"#"Milligan"#120#1,2#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Raman DMM"#"Raman"#120#891#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Robinson DMM"#"Le Blanc"#120#1,05#"2/12"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Albion Military Academy Cadre"#######
+"Federated Suns"#"1st Albion Training Cadre"#"Kesai IV"#120#500#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"2nd Albion Training Cadre"#"Enchi"#130#630#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"NAIS CMS Cadre"#######
+"Federated Suns"#"1st NAIS Cadet Cadre"#"Robinson"#120#460#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"2nd NAIS Cadet Cadre"#"Breed"#120#540#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"3rd NAIS Cadet Cadre"#"Glenmora"#130#670#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Training Battalions & Cadres"#######
+"Federated Suns"#"1st Brockton Tr. Btn."#"Brockton"#40#140#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"1st Bell Tr. Btn."#"Bell"#40#180#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"1st Conroe Tr. Btn."#"Conroe"#40#140#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Goshen War College Tr. Btn."#"Goshen"#40#180#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Kilbourne Academy Tr. Btn."#"Kilbourne"#40#180#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"1st Kittery Tr. Btn."#"Kittery"#40#220#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Point Barrow Academy Tr. Btn."#"Point Barrow"#40#220#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Robinson Battle Academy Tr. Btn."#"Robinson"#40#180#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Sakhara Academy Tr. Btn."#"Sakhara V"#40#220#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Filtvelt Academy Tr. Btn."#"Filtvelt"#40#180#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Other AFFS Forces"#######
+"Federated Suns"#"AFFS Planetary Garrison (PUG)"#"N/A"#150#646#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"LYRAN COMMONWEALTH ARMED FORCES"#######
+"Lyran Commonwealth"#"Arcturan Guards"#######
+"Lyran Commonwealth"#"8th Arcturan Guards"#"Khartoum"#150#730#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"11th Arcturan Guards"#"Timbuktu"#110#500#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"15th Arcturan Guards RCT"#"Phact"#330#1,6#"2/12"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"17th Arcturan Guards RCT"#"Wyatt"#330#1,65#"2/12"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"19th Arcturan Guards"#"Rasalgethi"#140#690#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"20th Arcturan Guards RCT"#"Port Moseby"#260#1,58#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"23rd Arcturan Guards RCT"#"Ryde"#270#1,53#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"24th Arcturan Guards"#"Port Moseby"#150#730#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"25th Arcturan Guards RCT"#"Sevren"#230#1,47#"2/12"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"Donegal Guards"#######
+"Lyran Commonwealth"#"2nd Donegal Guards RCT"#"Ryde"#260#1,37#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"3rd Donegal Guards RCT"#"Styk"#270#1,6#"2/12"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"4th Donegal Guards RCT"#"Chateau"#310#1,46#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"5th Donegal Guards RCT"#"Ryde"#270#1,71#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"6th Donegal Guards RCT"#"Denebola V"#340#1,81#"3/18"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"7th Donegal Guards"#"Lambrecht"#100#430#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"8th Donegal Guards RCT"#"Phalan"#270#1,65#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"10th Donegal Guards"#"Port Moseby"#130#610#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"11th Donegal Guards RCT"#"Nekkar"#250#1,43#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"12th Donegal Guards"#"Edasich"#130#610#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"13th Donegal Guards RCT"#"Bolan"#270#1,63#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"14th Donegal Guards RCT"#"Donegal"#250#1,48#"2/12"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"17th Donegal Guards RCT"#"Lyons"#320#1,59#"2/12"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"Lyran Guards"#######
+"Lyran Commonwealth"#"1st Lyran Guards"#"Maestu"#150#730#"1/6"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"3rd Lyran Guards RCT"#"Baxter"#320#1,58#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"5th Lyran Guards RCT"#"Skye"#260#1,51#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"6th Lyran Guards RCT"#"Althastan"#310#1,48#"2/12"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"10th Lyran Guards RCT"#"Meacham"#260#1,54#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"11th Lyran Guards"#"Dalkeith"#140#690#"1/6"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"14th Lyran Guards RCT"#"Ford"#260#1,54#"2/12"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"15th Lyran Guards RCT"#"Hesperus II"#260#1,52#"2/12"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"19th Lyran Guard"#"Baxter"#140#730#"1/6"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"24th Lyran Guard RCT"#"Sabik"#260#1,49#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"26th Lyran Guards RCT"#"Phalan"#330#1,71#"3/18"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"30th Lyran Guards"#"Lambrecht"#140#690#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"32nd Lyran Guards RCT"#"Solaris"#250#1,44#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"36th Lyran Guards RCT"#"Lambrecht"#270#1,63#"2/12"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"Lyran Regulars"#######
+"Lyran Commonwealth"#"1st Lyran Regulars"#"Ridderkerk"#130#610#"1/6"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"3rd Lyran Regulars"#"Kesai IV"#130#610#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"4th Lyran Regulars"#"Baxter"#130#610#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"5th Lyran Regulars"#"Graham IV"#140#690#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"7th Lyran Regulars"#"Loric"#140#650#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"8th Lyran Regulars"#"New India"#130#610#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"9th Lyran Regulars"#"Cavanaugh II"#120#580#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"10th Lyran Regulars"#"Ryde"#130#610#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"11th Lyran Regulars"#"Ryde"#140#690#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"15th Lyran Regulars"#"Port Moseby"#130#620#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"Royal Guards"#######
+"Lyran Commonwealth"#"1st Royal Guards RCT"#"Tharkad"#410#1,82#"3/18"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"2nd Royal Guards RCT"#"Tharkad"#270#1,72#"2/12"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"3rd Royal Guards RCT"#"Freedom"#370#1,75#"3/18"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"Skye Rangers"#######
+"Lyran Commonwealth"#"4th Skye Rangers RCT"#"Ryde"#320#1,57#"2/12"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"10th Skye Rangers"#"Zaniah"#140#690#"1/6"#4#"VET/16"#"(x1.5)"
+"Lyran Commonwealth"#"17th Skye Rangers"#"Lambrecht"#130#650#"1/6"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"22nd Skye Rangers"#"Fatima"#130#580#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Tikonov Republican Guard"#######
+"Lyran Commonwealth"#"1st Republican"#"Talitha"#110#540#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"2nd Republican"#"Wasat"#130#650#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"3rd Republican"#"Van Diemen IV"#110#540#"1/6"#3#"REG/6"#"(x1)"
+"Lyran Commonwealth"#"4th Republican"#"Carver V"#120#610#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"5th Republican"#"Elgin"#140#720#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Donegal March Militia"#######
+"Lyran Commonwealth"#"Alarion DMM"#"Not"######
+"Lyran Commonwealth"#"Carlisle DMM"#"Not"######
+"Lyran Commonwealth"#"Coventry DMM"#"Coventry"#210#1,4#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Periphery March"#######
+"Lyran Commonwealth"#"Alekseyevka PMM"#"Not"######
+"Lyran Commonwealth"#"Chahar PMM"#"Not"######
+"Lyran Commonwealth"#"Florida PMM"#"Not"######
+"Lyran Commonwealth"#"Neerabup PMM"#"Not"######
+"Lyran Commonwealth"#"Qanatir PMM"#"Not"######
+"Lyran Commonwealth"#"Teyvareb PMM"#"Not"######
+"Lyran Commonwealth"#"Sarna March Militia"#######
+"Lyran Commonwealth"#"Achernar SMM"#"Achernar"#130#1,27#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Corey SMM"#"Not"######
+"Lyran Commonwealth"#"Epsilon Eridani SMM"#"Epsilon Eridani"#140#1,29#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Kaifeng SMM"#"Not"######
+"Lyran Commonwealth"#"Liao SMM"#"Liao"#140#1,35#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Nanking SMM"#"Not"######
+"Lyran Commonwealth"#"Wei SMM"#"Wei"#190#1,21#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Skye March Militia"#######
+"Lyran Commonwealth"#"Accrington SMM"#"Accrington"#140#1,33#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Alexandria SMM"#"Not"######
+"Lyran Commonwealth"#"Denebola SMM"#"Not"######
+"Lyran Commonwealth"#"Gacrux SMM"#"Not"######
+"Lyran Commonwealth"#"Lyons SMM"#"Not"######
+"Lyran Commonwealth"#"Nekkar SMM"#"Not"######
+"Lyran Commonwealth"#"Tamar March Militia"#######
+"Lyran Commonwealth"#"Hot Springs TMM"#"Not"######
+"Lyran Commonwealth"#"Kelenfold TMM"#"Not"######
+"Lyran Commonwealth"#"Koniz TMM"#"Not"######
+"Lyran Commonwealth"#"Laurent TMM"#"Not"######
+"Lyran Commonwealth"#"Twycross TMM"#"Not"######
+"Lyran Commonwealth"#"Wotan TMM"#"Not"######
+"Lyran Commonwealth"#"Tamarind March"#######
+"Lyran Commonwealth"#"Furillo TMM"#"Furillo"#190#1,29#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Dar-es-Salaam TMM"#"Dar-es-Salaam"#200#1,23#"2/12"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Dixie TMM"#"Not"######
+"Lyran Commonwealth"#"Penobscot TMM"#"Not"######
+"Lyran Commonwealth"#"Training Forces"#######
+"Lyran Commonwealth"#"Blackjack Tr. Btn."#"Blackjack"#40#190#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Buena War College Tr. Btn."#"Buena"#50#230#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Pandora College Tr. Btn."#"Pandora"#40#190#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Royal New Capetown Tr. Btn."#"New Capetown"#40#190#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Sarna Martial Academy Tr. Grp."#"Sarna"#40#190#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Somerset Academy Tr. Btn."#"Somerset"#40#190#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Tamar War College Tr. Btn."#"Tamar"#50#230#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Tikonov Martial Academy Tr. Grp."#"Tikonov"#40#190#"1/6"#2#"GRN/1"#"(x0.8)"
+"Lyran Commonwealth"#"Other LACF Forces"#######
+"Lyran Commonwealth"#"Winfield's Brigade (2 Btn.)"#"Winfield"#90#420#"1/6"#5#"EL/31"#"(x2.0+)"
+"Lyran Commonwealth"#"LCAF Planetary Garrison"#"N/A"#190#728#"1/6"#2#"GRN/1"#"(x0.8)"
+#"DRACONIS COMBINE MUSTERED SOLDIERY"#######
+"Draconis Combine"#"Alshain Regulars"#######
+"Draconis Combine"#"1st Alshain Regulars"#"Richmond"#110#580#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"2nd Alshain Regulars"#"Soverzene"#130#700#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"3rd Alshain Regulars"#"Garstedt"#120#660#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"4th Alshain Regulars"#"Rubigen"#130#700#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"5th Alshain Regulars"#"Shirotori"#110#540#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"6th Alshain Regulars"#"Alshain"#100#500#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"7th Alshain Regulars"#"Buckminster"#110#580#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"8th Alshain Regulars"#"Buckminster"#120#660#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"9th Alshain Regulars"#"Jarett"#120#620#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"10th Alshain Regulars"#"Courchevel"#130#660#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"11th Alshain Regulars"#"Trolloc Prime"#110#540#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"Benjamin Regulars"#######
+"Draconis Combine"#"2nd Benjamin Regulars"#"Kajikazawa"#100#500#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"3rd Benjamin Regulars"#"Irurzun"#130#700#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"6th Benjamin Regulars"#"Irurzun"#100#500#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"9th Benjamin Regulars"#"Proserpina"#110#580#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"11th Benjamin Regulars"#"Tripoli"#100#500#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"15th Benjamin Regulars"#"Xinyang"#120#660#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"17th Benjamin Regulars"#"Benjamin"#140#809#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Dieron Regulars"#######
+"Draconis Combine"#"2nd Dieron Regulars"#"Cebalrai"#100#500#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"3rd Dieron Regulars"#"Kaus Australis"#110#580#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"8th Dieron Regulars"#"Al Na'ir"#120#660#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"9th Dieron Regulars"#"Cylene"#140#740#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"12th Dieron Regulars"#"Ashio"#110#580#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"15th Dieron Regulars"#"Al Na'ir"#150#860#"2/12"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"18th Dieron Regulars"#"Altair"#140#780#"1/6"#5#"EL/31"#"(x2.0+)"
+"Draconis Combine"#"22nd Dieron Regulars"#"Konstance"#100#500#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"24th Dieron Regulars"#"Algedi"#140#740#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"27th Dieron Regulars"#"Ashio"#130#700#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"36th Dieron Regulars"#"Nirasaki"#120#730#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"40th Dieron Regulars"#"Deneb Algedi"#140#740#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"41st Dieron Regulars"#"Yance I"#120#620#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"Galedon Regulars"#######
+"Draconis Combine"#"2nd Galedon Regulars"#"Arlington"#100#500#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"5th Galedon Regulars"#"New Samarkand"#120#660#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"8th Galedon Regulars"#"Deshler"#130#700#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"12th Galedon Regulars"#"Matsuida"#110#620#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"16th Galedon Regulars"#"Oshika"#130#700#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"17th Galedon Regulars"#"Kaznejov"#140#780#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"19th Galedon Regulars"#"Bad News"#150#820#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"21st Galedon Regulars"#"Marlowe's Rift"#120#660#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"31st Galedon Regulars"#"Tabayama"#120#660#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"32nd Galedon Regulars"#"Sakuranoki"#140#740#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"Pesht Regulars"#######
+"Draconis Combine"#"3rd Pesht Regulars"#"Pesht"#90#420#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"4th Pesht Regulars"#"Tarnby"#110#580#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"6th Pesht Regulars"#"Nowhere"#140#780#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"7th Pesht Regulars"#"Land's End"#110#540#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"9th Pesht Regulars"#"Schwartz"#140#815#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"10th Pesht Regulars"#"Gravenhage"#140#820#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"11th Pesht Regulars"#"Irece"#120#660#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"Genyosha"#######
+"Draconis Combine"#"1st Genyosha"#"Shitara"#120#660#"1/6"#5#"EL/31"#"(x2.0+)"
+"Draconis Combine"#"2nd Genyosha"#"Ashio"#130#700#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"Sword of Light"#######
+"Draconis Combine"#"1st Sword of Light"#"Luthien"#180#1#"2/12"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"2nd Sword of Light"#"Buckminster"#180#960#"2/12"#5#"EL/31"#"(x2.0+)"
+"Draconis Combine"#"5th Sword of Light"#"Dieron"#170#880#"2/12"#5#"EL/31"#"(x2.0+)"
+"Draconis Combine"#"7th Sword of Light"#"Luthien"#150#800#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"8th Sword of Light"#"Delacruz"#180#1,04#"2/12"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"Sun Zhang"#######
+"Draconis Combine"#"1st Sun Zhang Cadre"#"Tinaca"#110#580#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"5th Sun Zhang Cadre"#"Caldrea"#90#420#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"9th Sun Zhang Cadre"#"Dieron"#140#740#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"12th Sun Zhang Cadre"#"Kessel"#130#660#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"House Guard"#######
+"Draconis Combine"#"Otomo"#"Luthien"#120#620#"1/6"#5#"EL/31"#"(x2.0+)"
+"Draconis Combine"#"Amphigean LAG"#######
+"Draconis Combine"#"1st Amphigean LAG"#"Reisling's Planet"#130#723#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"2nd Amphigean LAG"#"Reisling's Planet"#130#700#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"5th Amphigean LAG"#"New Wessex"#110#580#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"An Ting Legions"#######
+"Draconis Combine"#"2nd An Ting Legion"#"Galedon V"#120#660#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"4th An Ting Legion"#"Valentina"#120#620#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"Arkab Legions"#######
+"Draconis Combine"#"2nd Arkab Legion"#"Tannil"#110#580#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"4th Arkab Legion"#"Trolloc Prime"#100#500#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"6th Arkab Legion"#"Arkab"#120#620#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"Night Stalkers"#######
+"Draconis Combine"#"2nd Night Stalkers"#"Matamoras"#90#420#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Proserpina Hussars"#######
+"Draconis Combine"#"1st Proserpina Hussars"#"Hun Ho"#170#920#"2/12"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"3rd Proserpina Hussars"#"Galedon V"#235#580#"1/6"#5#"EL/31"#"(x2.0+)"
+"Draconis Combine"#"4th Proserpina Hussars"#"Fellanin II"#130#700#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Shin Legions"#######
+"Draconis Combine"#"1st Shin Legion"#"Ancha"#130#700#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"2nd Shin Legion"#"Sadalbari"#120#620#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"Ghost Regiments"#######
+"Draconis Combine"#"1st Ghost"#"Shimosuwa"#130#660#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"2nd Ghost"#"Shimosuwa"#100#500#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"3rd Ghost"#"Osmus Saar"#120#620#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"4th Ghost"#"Osmus Saar"#140#740#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"5th Ghost"#"Shimonoseki"#120#660#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"6th Ghost"#"Shimonoseki"#130#700#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"7th Ghost"#"Umijiri"#110#540#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"8th Ghost"#"Umijiri"#120#620#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"9th Ghost"#"Hachiman"#110#580#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"10th Ghost"#"Hachiman"#120#660#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"11th Ghost"#"Midway"#130#700#"1/6"#2#"GRN/1"#"(x0.8)"
+"Draconis Combine"#"12th Ghost"#"Midway"#120#620#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Legions of Vega"#######
+"Draconis Combine"#"2nd Legion of Vega"#"Alphecca"#120#660#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"11th Legion of Vega"#"Alrakis"#130#700#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"14th Legion of Vega"#"Vega"#100#500#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"Ryuken"#######
+"Draconis Combine"#"Ryuken-ni"#"Dieron"#130#700#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Ryuken-san"#"Dieron"#120#620#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Ryuken-yon"#"Harrow's Sun"#140#780#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Ryuken-go"#"Proserpina"#130#660#"1/6"#3#"REG/6"#"(x1)"
+"Draconis Combine"#"Ryuken-roku"#"Misery"#140#740#"1/6"#4#"VET/16"#"(x1.5)"
+"Draconis Combine"#"Other DCMS Forces"#######
+"Draconis Combine"#"DCMS Planetary Garrison"#"N/A"#155#675#"1/6"#2#"GRN/1"#"(x0.8)"
+#"CAPELLAN CONFEDERATION ARMED FORCES"#######
+"Capellan Confederation"#"Blandford's Grenadiers"#"Capella"#110#510#"1/6"#4#"VET/16"#"(x1.5)"
+"Capellan Confederation"#"Death Commandos"#"Grand Base"#40#190#"1/6"#5#"EL/31"#"(x2.0+)"
+"Capellan Confederation"#"15th Dracon"#"Necromo"#150#690#"1/6"#3#"REG/6"#"(x1)"
+"Capellan Confederation"#"House Dai Da Chi"#"Drozan"#80#360#"1/6"#4#"VET/16"#"(x1.5)"
+"Capellan Confederation"#"House Fujita"#"Grand Base"#70#300#"1/6"#4#"VET/16"#"(x1.5)"
+"Capellan Confederation"#"House LuSann"#"Mitchel"#80#360#"1/6"#2#"GRN/1"#"(x0.8)"
+"Capellan Confederation"#"Kingston Legionnaires"#"Minnacora"#110#510#"1/6"#3#"REG/6"#"(x1)"
+"Capellan Confederation"#"No Return"#######
+"Capellan Confederation"#"McCarron's Armored Cavalry"#######
+"Capellan Confederation"#"Nightriders"#"Hustaing"#120#570#"1/6"#3#"REG/6"#"(x1)"
+"Capellan Confederation"#"Barton's Regiment"#"Harloc"#120#510#"1/6"#3#"EL/31"#"(x2.0+)"
+"Capellan Confederation"#"The Wild Ones"#"Overton"#110#540#"1/6"#3#"REG/6"#"(x1)"
+"Capellan Confederation"#"Carhart's Demons"#"Gei-Fu"#110#570#"1/6"#4#"VET/16"#"(x1.5)"
+"Capellan Confederation"#"Granger's Renegades"#"Relevow"#120#660#"1/6"#4#"VET/16"#"(x1.5)"
+"Capellan Confederation"#"Baxter's Brawlers"#"Menke"#110#480#"1/6"#2#"GRN/1"#"(x0.8)"
+#"FREE WORLDS LEAGUE MILITARY"#######
+"Free Worlds League"#"3rd Free Worlds Guards"#"Irian"#120#570#"1/6"#4#"VET/16"#"(x1.5)"
+"Free Worlds League"#"9th Marik Militia"#"Harsefeld"#110#510#"1/6"#3#"REG/6"#"(x1)"
+"Free Worlds League"#"13th Marik Militia"#"Zion"#110#540#"1/6"#4#"VET/16"#"(x1.5)"
+"Free Worlds League"#"15th Marik Militia"#"Berenson"#110#510#"1/6"#3#"REG/6"#"(x1)"
+"Free Worlds League"#"18th Marik Militia"#"Irian"#120#600#"1/6"#3#"REG/6"#"(x1)"
+"Free Worlds League"#"25th Marik Militia"#"Wing"#110#510#"1/6"#3#"REG/6"#"(x1)"
+"Free Worlds League"#"31st Marik Militia"#"Dieudonne"#120#540#"1/6"#3#"REG/6"#"(x1)"
+"Free Worlds League"#"2nd Oriente Hussars"#"Second Chance"#100#420#"1/6"#4#"VET/16"#"(x1.5)"
+"Free Worlds League"#"Silver Hawks (Gryphons)"#"Shiloh"#120#600#"1/6"#4#"VET/16"#"(x1.5)"
+#"MERCENARY FORCES (LCAF OR AFFS EMPLOY)"#######
+"Federated Suns"#"Always Faithful"#"Carlisle"#120#648#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"The Bad Dream"#"Newtown Square"#120#630#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Blackhearts"#"Lost"#110#510#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Blue Star Irregulars"#######
+"Federated Suns"#"1894th Light Horse"#"Lambrecht"#110#721#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Avatars of Painful Death"#"Lambrecht"#120#761#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"21st Rim Worlds"#"Lambrecht"#110#781#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Camacho's Caballeros (1 Btn.)"#"Marfik"#40#210#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Clifton's Rangers (1 Btn.)"#"Benet III"#30#120#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Cunningham's Commandos"#"Benet III"#120#570#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"The Dioscuri"#######
+"Federated Suns"#"The Dioscuri (Castor)"#"Glenmora"#150#597#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"The Dioscuri (Pollux)"#"Glenmora"#110#537#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Dismal Disinherited"#######
+"Federated Suns"#"1st Dismal Disinherited"#"Cassias"#110#558#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"2nd Dismal Disinherited"#"Cassias"#120#597#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"3rd Dismal Disinherited"#"Cassias"#110#521#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Dragon's Breath"#"Main Street"#120#690#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Dragonslayers"#######
+"Federated Suns"#"1st Dragonslayers"#"Phalan"#120#600#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"2nd Dragonslayers"#"Phalan"#110#560#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Eridani Light Horse"#######
+"Federated Suns"#"Eridani Light Horse 71st Light Horse"#"David"#140#677#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Eridani Light Horse 21st Striker"#"David"#140#687#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Eridani Light Horse 151st Horse"#"David"#130#617#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"The Fighting Urukhai"#######
+"Federated Suns"#"The Fighting Urukhai 8th Striker"#"Addicks"#130#650#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"The Fighting Urukhai Roman's Bar Hounds"#"Addicks"#120#630#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"The Fighting Urukhai DeMaestri's Sluggers"#"Addicks"#130#650#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"The Filthy Lucre"#"Stantsiya"#120#560#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Fuchida's Fusiliers (1 Btn.)"#"Benet III"#40#180#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Grave Walkers"#######
+"Federated Suns"#"1st Grave Walkers"#"Baxter"#120#787#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"2nd Grave Walkers"#"Baxter"#120#767#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Gray Death Legion"#"Phalan"#80#390#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"The Green Machine"#"Kowloon"#120#600#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Greenburg's Godzillas"#"Kesai IV"#130#620#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Gregg's Long Striders"#"Launam"#110#521#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Grim Determination"#"Lesalles"#160#1,03#"2/12"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Hansen's Roughriders"#"Lambrecht"#120#765#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Harlock's Warriors"#"Dixie"#150#567#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Hermann's Hermits"#"Fatima"#120#530#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"The Hsien Hotheads"#"Thorin"#110#725#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Illician Lancers"#######
+"Federated Suns"#"Illician Lancers 59th Strike"#"Verlo"#110#558#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Illician Lancers 21st Rangers"#"Mendham"#110#528#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Illician Lancers 4th Rangers"#"Frazer"#120#618#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Illician Lancers 9th Rangers"#"Immenstadt"#100#461#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Kell Hounds"#"Summer"#80#387#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"Killer Bees"#"Planting"#120#600#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Kingston Caballeros"#"Poulsbo"#120#570#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Knights of St. Cameron"#######
+"Federated Suns"#"1st Knights of St. Cameron"#"Rastaban"#110#510#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"2nd Knights of St. Cameron"#"Domain"#110#480#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Laurel's Legion"#"Addicks"#120#570#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Lexington Combat Group"#######
+"Federated Suns"#"Lexington Combat Group 32nd Recon"#"Hyalite"#110#784#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Lexington Combat Group Marie's Golden Hammers"#"Midale"#130#838#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Lexington Combat Group Frederic's Gazelles"#"Jaipur"#120#758#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Lindon's Battalion"#"Benet III"#40#180#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Markson Marauders"#"Estuan"#100#420#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Martian Cuirassiers (1 Btn.)"#"Benet III"#40#210#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Miller's Marauders (2 Btn.)"#"Benet III"#130#890#"2/12"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Mobile Fire"#"Baxter"#100#567#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Narhal's Raiders"#######
+"Federated Suns"#"Narhal's Raiders 1st Regiment"#"Imbros III"#120#750#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Narhal's Raiders 2nd Regiment"#"Yorii"#130#860#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"New Hessen Armored Scouts"#"New Hessen"#110#480#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Northwind Highlanders"#######
+"Federated Suns"#"Northwind Highlanders MacLeod's Highlanders"#"Northwind"#120#600#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Northwind Highlanders Stirling's Fusiliers"#"Northwind"#130#620#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Northwind Highlanders 2nd Kearny Highlanders"#"Northwind"#120#600#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Northwind Highlanders 1st Kearny Highlanders"#"Northwind"#130#620#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Redfield Renegades"#"Addicks"#120#690#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Rhonda's Irregulars"#"Baxter"#120#570#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Screaming Eagles"#######
+"Federated Suns"#"1st Screaming Eagles"#"Glenmora"#130#870#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"2nd Screaming Eagles"#"Glenmora"#130#850#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Simonson's Cutthroats"#"Benet III"#110#480#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Team Banzai"#"New Avalon"#120#530#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"12th Star Guards"#######
+"Federated Suns"#"12th Star Guards 1st Regiment"#"Phalan"#110#728#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"12th Star Guards 2nd Regiment"#"Phalan"#110#678#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"12th Star Guards 3rd Regiment"#"Icar"#120#798#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"12th Star Guards 7th Regiment"#"Phalan"#110#728#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"12th Vegan Rangers"#######
+"Federated Suns"#"12th Vegan Rangers Alpha"#"Errai"#120#660#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"12th Vegan Rangers Beta"#"Errai"#130#840#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"12th Vegan Rangers Gamma"#"Errai"#130#650#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"12th Vegan Rangers Delta"#"Errai"#120#653#"1/6"#2#"GRN/1"#"(x0.8)"
+"Federated Suns"#"Wolf's Dragoons"#######
+"Federated Suns"#"Wolf's Dragoons Alpha"#"Caph"#110#650#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Wolf's Dragoons Beta"#"Outreach"#110#600#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Wolf's Dragoons Gamma Provisional"#"Caph"#110#570#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Wolf's Dragoons Delta Provisional"#"Caph"#70#300#"1/6"#3#"REG/6"#"(x1)"
+"Federated Suns"#"Wolf's Dragoons Epsilon Provisional"#"Caph"#70#300#"1/6"#4#"VET/16"#"(x1.5)"
+"Federated Suns"#"Wolf's Dragoons Zeta Battalion Provisional"#"Caph"#50#230#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"Wolf's Dragoons Black Widow Battalion"#"Outreach"#40#210#"1/6"#5#"EL/31"#"(x2.0+)"
+"Federated Suns"#"Wylie's Coyotes"#"Lambrecht"#150#474#"1/6"#4#"VET/16"#"(x1.5)"

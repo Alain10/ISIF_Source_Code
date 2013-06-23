@@ -1,0 +1,14 @@
+This is just my musing but I am thinking I will need to change some of the rules to better balance the game.
+
+1. ASF: I agree that aerospace fighters are too strong and should probably have a power of 1/4 * air rating when doing ground attack.  In effect their power should be reduced by a factor of 8.
+2. Garrisons:  When you establish a garrison for 3 points, you should get a small unit of infantry and light armor worth maybe 80 ground points with 20 air points and 1 supply point.  It would then grow to 250 ground and 50 air at 5% per turn.  Supply point should also accrue at 5% until there are 3 points and no more.
+3.  Garrisons should not be allowed to retreat.  They should fight until destroyed or they surrender.
+I think it makes sense that garrisons would not have organic transport assets.
+4.  Defender needs to be stronger.  I am thinking the defender should be considered dug in by default at no cost.  The protection from being dug in should be worth more.  Something like 40%.
+A corollary is that fortifications would have to be less effective at absorbing damage.
+I believe the defender should have a strong advantage considering how long some of the canon powers have hung on through long wars.
+5. Dig In:  I am thinking that I should get rid of dig in orders altogether.  It costs too much and and fortifications are more effective.
+6. Repair orders and reinforcements: One of the weird things I have encountered is that reinforcements can be too plentiful and too easy to move to the front.  At this point, they move for free.  This does not make sense and is unbalanced.  A unit cost transport points to move and can move at most 4 to 6 jumps per turn while huge amounts of reinforcements can be moved from the factory to the repairing unit for free.  Solution:  I am thinking of keeping track of the factory of origin for each reinforcement in the pool.  That way, the program could calculate a 'travel cost' for the reinforcement to reach a frontline unit.
+
+If people know about other balance problems in the game, your ideas and suggestions are welcome.
+Thank you.
